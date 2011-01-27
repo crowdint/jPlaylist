@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+.song img{
+  vertical-align: middle;
+}
+.song .back, .song .forward{
+  width: 50px;
+}
